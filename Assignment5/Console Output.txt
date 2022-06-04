@@ -1,0 +1,206 @@
+Trial: 1 	Items: 48
+                      best_fit  first_fit  next_fit  offline_bfd  offline_ffd  optimal
+BinPackingData01.txt        11         11        12           10           10       10
+
+
+Trial: 2 	Items: 85
+                      best_fit  first_fit  next_fit  offline_bfd  offline_ffd  optimal
+BinPackingData02.txt        21         21        26           21           21       20
+
+
+Trial: 3 	Items: 132
+                      best_fit  first_fit  next_fit  offline_bfd  offline_ffd  optimal
+BinPackingData03.txt        31         31        39           30           30       30
+
+
+Trial: 4 	Items: 160
+                      best_fit  first_fit  next_fit  offline_bfd  offline_ffd  optimal
+BinPackingData04.txt        41         41        53           41           41       40
+
+
+Trial: 5 	Items: 210
+                      best_fit  first_fit  next_fit  offline_bfd  offline_ffd  optimal
+BinPackingData05.txt        51         51        62           50           50       50
+
+
+Trial: 6 	Items: 254
+                      best_fit  first_fit  next_fit  offline_bfd  offline_ffd  optimal
+BinPackingData06.txt        61         61        75           60           60       60
+
+
+Trial: 7 	Items: 295
+                      best_fit  first_fit  next_fit  offline_bfd  offline_ffd  optimal
+BinPackingData07.txt        71         71        91           70           70       70
+
+
+Trial: 8 	Items: 358
+                      best_fit  first_fit  next_fit  offline_bfd  offline_ffd  optimal
+BinPackingData08.txt        81         81       103           80           80       80
+
+
+Trial: 9 	Items: 381
+                      best_fit  first_fit  next_fit  offline_bfd  offline_ffd  optimal
+BinPackingData09.txt        91         91       114           90           90       90
+
+
+Trial: 10 	Items: 433
+                      best_fit  first_fit  next_fit  offline_bfd  offline_ffd  optimal
+BinPackingData10.txt       101        101       126          100          100      100
+
+
+Trial: 11 	Items: 483
+                      best_fit  first_fit  next_fit  offline_bfd  offline_ffd  optimal
+BinPackingData11.txt       111        111       137          110          110      110
+
+
+Trial: 12 	Items: 499
+                      best_fit  first_fit  next_fit  offline_bfd  offline_ffd  optimal
+BinPackingData12.txt       122        122       150          120          120      120
+
+
+Trial: 13 	Items: 555
+                      best_fit  first_fit  next_fit  offline_bfd  offline_ffd  optimal
+BinPackingData13.txt       131        131       165          130          130      130
+
+
+Trial: 14 	Items: 587
+                      best_fit  first_fit  next_fit  offline_bfd  offline_ffd  optimal
+BinPackingData14.txt       141        141       175          140          140      140
+
+
+Trial: 15 	Items: 618
+                      best_fit  first_fit  next_fit  offline_bfd  offline_ffd  optimal
+BinPackingData15.txt       151        151       190          150          150      150
+
+
+Trial: 16 	Items: 696
+                      best_fit  first_fit  next_fit  offline_bfd  offline_ffd  optimal
+BinPackingData16.txt       162        162       201          160          160      160
+
+
+Trial: 17 	Items: 719
+                      best_fit  first_fit  next_fit  offline_bfd  offline_ffd  optimal
+BinPackingData17.txt       171        171       214          170          170      170
+
+
+Trial: 18 	Items: 792
+                      best_fit  first_fit  next_fit  offline_bfd  offline_ffd  optimal
+BinPackingData18.txt       181        181       226          180          180      180
+
+
+Trial: 19 	Items: 786
+                      best_fit  first_fit  next_fit  offline_bfd  offline_ffd  optimal
+BinPackingData19.txt       192        192       236          190          190      190
+
+
+Trial: 20 	Items: 862
+                      best_fit  first_fit  next_fit  offline_bfd  offline_ffd  optimal
+BinPackingData20.txt       201        201       248          200          200      200
+
+
+Trial: 21 	Items: 48
+               best_fit  first_fit  next_fit  offline_bfd  offline_ffd  optimal
+BPPData01.txt        11         11        11           11           11       10
+
+
+Trial: 22 	Items: 85
+               best_fit  first_fit  next_fit  offline_bfd  offline_ffd  optimal
+BPPData02.txt        21         21        27           21           21       20
+
+
+Trial: 23 	Items: 137
+               best_fit  first_fit  next_fit  offline_bfd  offline_ffd  optimal
+BPPData03.txt        31         31        38           30           30       30
+
+
+Trial: 24 	Items: 161
+               best_fit  first_fit  next_fit  offline_bfd  offline_ffd  optimal
+BPPData04.txt        41         41        50           40           40       40
+
+
+Trial: 25 	Items: 213
+               best_fit  first_fit  next_fit  offline_bfd  offline_ffd  optimal
+BPPData05.txt        52         52        62           50           50       50
+
+
+Trial: 26 	Items: 268
+               best_fit  first_fit  next_fit  offline_bfd  offline_ffd  optimal
+BPPData06.txt        61         61        75           60           60       60
+
+
+Trial: 27 	Items: 281
+               best_fit  first_fit  next_fit  offline_bfd  offline_ffd  optimal
+BPPData07.txt        71         71        89           70           70       70
+
+
+Trial: 28 	Items: 343
+               best_fit  first_fit  next_fit  offline_bfd  offline_ffd  optimal
+BPPData08.txt        82         82       104           80           80       80
+
+
+Trial: 29 	Items: 406
+               best_fit  first_fit  next_fit  offline_bfd  offline_ffd  optimal
+BPPData09.txt        91         91       114           90           90       90
+
+
+Trial: 30 	Items: 412
+               best_fit  first_fit  next_fit  offline_bfd  offline_ffd  optimal
+BPPData10.txt       101        101       125          100          100      100
+
+
+Trial: 31 	Items: 462
+               best_fit  first_fit  next_fit  offline_bfd  offline_ffd  optimal
+BPPData11.txt       111        111       140          110          110      110
+
+
+Trial: 32 	Items: 500
+               best_fit  first_fit  next_fit  offline_bfd  offline_ffd  optimal
+BPPData12.txt       121        121       149          120          120      120
+
+
+Trial: 33 	Items: 554
+               best_fit  first_fit  next_fit  offline_bfd  offline_ffd  optimal
+BPPData13.txt       132        132       159          130          130      130
+
+
+Trial: 34 	Items: 574
+               best_fit  first_fit  next_fit  offline_bfd  offline_ffd  optimal
+BPPData14.txt       141        141       175          140          140      140
+
+
+Trial: 35 	Items: 655
+               best_fit  first_fit  next_fit  offline_bfd  offline_ffd  optimal
+BPPData15.txt       151        151       186          150          150      150
+
+
+Trial: 36 	Items: 677
+               best_fit  first_fit  next_fit  offline_bfd  offline_ffd  optimal
+BPPData16.txt       161        161       195          160          160      160
+
+
+Trial: 37 	Items: 736
+               best_fit  first_fit  next_fit  offline_bfd  offline_ffd  optimal
+BPPData17.txt       171        171       211          170          170      170
+
+
+Trial: 38 	Items: 751
+               best_fit  first_fit  next_fit  offline_bfd  offline_ffd  optimal
+BPPData18.txt       182        182       225          180          180      180
+
+
+Trial: 39 	Items: 807
+               best_fit  first_fit  next_fit  offline_bfd  offline_ffd  optimal
+BPPData19.txt       193        193       236          190          190      190
+
+
+Trial: 40 	Items: 826
+               best_fit  first_fit  next_fit  offline_bfd  offline_ffd  optimal
+BPPData20.txt       201        201       257          200          200      200
+
+
+                         best_fit  first_fit  next_fit  offline_bfd  offline_ffd
+Time for 40 Trials(ms)  54.974794  71.149826  3.000736    80.987215   101.982594
+
+
+
+Process finished with exit code 0
